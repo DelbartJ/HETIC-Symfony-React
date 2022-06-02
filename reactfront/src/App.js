@@ -30,7 +30,7 @@ function App() {
     return (
         <div className='container my-5'>
 
-            {/* <FormCard setCards={setCards}/> */}
+            <FormCard setCards={setCards}/>
 
             <FormRegister/>
 
