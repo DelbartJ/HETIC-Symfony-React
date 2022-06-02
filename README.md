@@ -1,3 +1,3 @@
 # HETIC-Symfony-React
 
-Bonjour désolé le projet n'est pas fini je n'ai pas réussi a faire toutes les fonctionnalité. Serait-il possible d'avoir un corrigé s'il vous plait?
+Bonjour serait-il possibloe d'avoir un corrigé pour pouvoir retravailler le projet j'aimerais pouvoir travailler dessus plus en profondeur a défaut d'avoir pu finir le projet dans les temps
