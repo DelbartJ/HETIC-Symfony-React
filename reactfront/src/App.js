@@ -24,6 +24,9 @@ function App() {
         },
     ]);
 
+    const [user, setUser] = useState({});
+
+
     return (
         <div className='container my-5'>
 
